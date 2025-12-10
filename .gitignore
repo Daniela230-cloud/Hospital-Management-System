@@ -1,0 +1,26 @@
+# Environment variables - PAROLA SQL!
+.env
+
+# Python cache
+__pycache__/
+database/__pycache__/
+pages/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
